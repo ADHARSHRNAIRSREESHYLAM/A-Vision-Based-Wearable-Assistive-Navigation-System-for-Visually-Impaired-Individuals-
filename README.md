@@ -121,7 +121,6 @@ The core hardware is housed in a compact $120 \text{ mm} \times 85 \text{ mm} \t
 If you find this project useful in your research or applications, please cite our IEEE conference paper:
 
 ```bibtex
-@inproceedings{jose2026vision,
   title={A Vision Based Wearable Assistive Navigation System for Visually Impaired Individuals},
   author={Jose, Julia Tholath and Nair, Adharsh R and C, Sneha and Andaluri, Subha Sankar and Payyapilly, Kevin Jojo and M, Athira},
   booktitle={2026 2nd International Conference on Innovations in Mechanical, Robotics, Computing and Biomedical Engineering (ICIMRBE)},
